@@ -9,6 +9,9 @@ I used Flask web framework in built in Python to put in on web.
 # Files Brief
 *In the preprocessing.ipynb file the Data Preprocessing part has been done. 
 
-*In the create.py file I created two files for future uses one data.csv and other a numpy matrix.
+Run the fallowing commands in .cmd prompt by opening command prompt in the same folder 
+![cmd](https://user-images.githubusercontent.com/66937023/104303791-8b3f5580-54f0-11eb-868c-de427d62825d.PNG)
 
-*The application is run from the main.py file.
+Then open local server http://127.0.0.1:5000/
+
+![local](https://user-images.githubusercontent.com/66937023/104304312-3bad5980-54f1-11eb-8ffc-705e4631bdc5.PNG)
